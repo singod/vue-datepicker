@@ -89,4 +89,4 @@ npm install auto-calendar --save
 
 [1]: https://github.com/lerhxx/vue-datepicker/blob/gh-pages/images/native.png
 [2]: https://github.com/lerhxx/vue-datepicker/blob/gh-pages/images/demo.png
-[3]: https://lerhxx.github.io/vue-datepicker/demo.html
+[3]: https://lerhxx.github.io/vue-datepicker/index.html
